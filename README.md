@@ -140,7 +140,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/QuEB128/MinoAI.git 
-cd MinoAI_ML_Project
+cd MinoAI
 ```
 Install dependencies:
 
