@@ -58,10 +58,8 @@ MinoAI_ML_Project/
 │   ├── random_forest_model.pkl
 │   └── feature_columns.pkl
 │
-├── results/
-│   └── figures/
-│
-├── report/
+├── report
+│   └── MinoAI_ML_Report.pdf
 │
 ├── app.py
 │
