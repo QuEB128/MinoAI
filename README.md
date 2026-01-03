@@ -148,7 +148,16 @@ Install dependencies:
 
 pip install -r requirements.txt  
 
-Activate the virtual environment and run the Streamlit application.
+Activate the virtual environment 
+
+Train Model:
+```bash
+jupyter notebook
+# Open: notebooks/eda_and_model.ipynb
+# Run all cells sequentially
+```
+
+and run the Streamlit application.
 ```bash
 streamlit run app.py
 ```
